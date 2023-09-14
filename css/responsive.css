@@ -30,6 +30,11 @@
     .text {
         min-width: 140px ;
     }
-   
+    .row {
+        display: block;
 
+   }
+   .card  {
+        width: 200%;
+   }
 }
