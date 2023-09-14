@@ -11,11 +11,10 @@
     .img {
         width: 100%;
     }
-   .col {
+    .col {
     padding: 10px;
-   }
+    }
     
-  
 }
 
 
@@ -36,5 +35,13 @@
    }
    .card  {
         width: 200%;
+        align: center;
    }
+
+   .step  {
+    width: 200%;
+    }
+    .col .col-left > img {
+        width: 100%;
+    }
 }
