@@ -3,12 +3,17 @@
  ************************************************/
 @media (max-width: 768px) {
 	.container {
-		width: 85%;
+		width: 768px;
     }    
     .text {
         min-width: 180px ;
     }
-   
+    .img {
+        width: 100%;
+    }
+   .col {
+    padding: 10px;
+   }
     
   
 }
@@ -18,9 +23,9 @@
 /************************************************
     Mobile
  ************************************************/
- @media (max-width: 768px) {
+ @media (max-width: 480px) {
 	.container {
-		width: 70%;
+		width: 480px;
     }    
     .text {
         min-width: 140px ;
